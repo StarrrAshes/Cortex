@@ -1,4 +1,4 @@
-# HIVE — Upcycled Hexagonal Hanging Planters
+# CORTEX — Upcycled Hexagonal Hanging Planters
 
 A single-page, GitHub Pages-ready website for HIVE — a student-led upcycling
 business that converts discarded PET water bottles into 3D-printed modular
