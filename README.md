@@ -8,8 +8,8 @@ planters with gravity-fed wooden water reservoirs.
 
 ## Team
 
-- **Harris Wu** — Main engineer & designer of the product (CAD, mechanical design, prototyping)
-- **Joshua Sat** — Data researcher & web (market analysis, unit economics, front-end site implementation)
+- **Tarris Su** — Main engineer & designer of the product (CAD, mechanical design, prototyping)
+- **Jieunah Bat** — Data researcher & web (market analysis, unit economics, front-end site implementation)
 
 Built at Wellington C. Mepham High School · North Bellmore, NY · 2026
 
